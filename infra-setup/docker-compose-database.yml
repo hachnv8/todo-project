@@ -17,7 +17,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: Hach1997!
       MYSQL_DATABASE: tododb
-      MYSQL_USER: root
+      MYSQL_USER: td_su
       MYSQL_PASSWORD: Hach1997!
     ports:
       - "3306:3306"
